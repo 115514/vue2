@@ -1,2 +1,7 @@
 /node_modules
-/dist
+/distdist
+node_modules
+package-lock.json
+package.json
+src
+webpack.config.js
